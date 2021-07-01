@@ -1,2 +1,2 @@
-# 3rd
-3rd repo in git hub
+# WELCOME TO BY BLOG
+BY JIYAN PATIL
